@@ -299,7 +299,7 @@
             etaRestriction: false,
             welcome: true,
             opLink: null,
-            rulesLink: "Regras:prnt.sc/c152aa Rules:prnt.sc/c16kj6",
+            rulesLink: "prnt.sc/c152aa",
             themeLink: null,
             fbLink: "www.facebook.com/groups/998619933579146",
             youtubeLink: null,
